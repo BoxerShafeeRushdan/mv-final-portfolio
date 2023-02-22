@@ -1,7 +1,8 @@
-                                              Multiverse Final Portfolio
+#Multiverse Final Portfolio
+
 This repo is a collection of some of my learning contribution during my 2022-2023 apprenticeship at Box sponsored by Multiverse.
 
-                                                  Table of Contents
+##Table of Contents
 
     Overview
 
