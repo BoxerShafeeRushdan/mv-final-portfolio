@@ -23,7 +23,7 @@ My technical projects section contains two folders, one for my multiverse projec
 
     Contact
 
-Shafee Rushdan - srushdan@box.com
+Shafee Rushdan - shafeerushdan@gmail.com
 
 
 
